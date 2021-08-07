@@ -8,11 +8,16 @@ The app is based on [freecodecamp.org's](freecodecamp.org) Python Backend Web De
 
 Feel free to use my code.
 
+## Prereqs 
+Python 3.6
+
 ## Steps to start
 
 Steps :
-1. Run in cmd - python manage.py runserver
-2. Open a browser and go to localhost:8000
+1. Create a new virtual environment
+2. pip install -r requirements.txt
+3. Run in cmd - python manage.py runserver
+4. Open a browser and go to localhost:8000
 
 ## Screenshots
 
