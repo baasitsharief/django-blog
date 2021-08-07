@@ -4,7 +4,7 @@ A barebones/minimalistic blog web application based on Django and HTML with sign
 The app is based on [freecodecamp.org's](freecodecamp.org) Python Backend Web Development (with Django) tutorial along with some modifications such as adding post from the app itself along user auth.
 
 
-[![Django-tutorial](https://www.youtube.com/watch?v=jBzwzrDvZ18/0.jpg)](http://www.youtube.com/watch?v=jBzwzrDvZ18 "Python Backend Web Development (with Django)")
+[![Django-tutorial(http://img.youtube.com/vi/jBzwzrDvZ18/0.jpg)](http://www.youtube.com/watch?v=jBzwzrDvZ18 "Python Backend Web Development (with Django)")
 
 Feel free to use my code.
 
