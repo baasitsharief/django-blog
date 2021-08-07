@@ -9,7 +9,7 @@ The app is based on [freecodecamp.org's](freecodecamp.org) Python Backend Web De
 Feel free to use my code.
 
 ## Prereqs 
-Python 3.6
+Python 3.6 and Django
 
 ## Steps to start
 
