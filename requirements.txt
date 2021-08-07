@@ -1,0 +1,3 @@
+django
+django-deep-serializer
+django-heroku
