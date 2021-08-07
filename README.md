@@ -1,5 +1,7 @@
 # django-blog
-A barebones/minimalistic blog web application based on Django and HTML with sign-in, sign up and adding post feature available to registered users. Uses the default SQLite for db purpose. Go through django documentation if you want to host on some other platform/db, instead of default and localhost.
+A barebones/minimalistic blog web application based on Django and HTML with sign-in, sign up and adding post feature available to registered users. Deployed on Heroku here - ![r/sheesh blog](https://app-blog-django.herokuapp.com/)
+
+Uses the default SQLite for db purpose. Go through django documentation if you want to host on some other platform/db, instead of default and localhost.
 
 The app is based on [freecodecamp.org's](freecodecamp.org) Python Backend Web Development (with Django) tutorial along with some modifications such as adding post from the app itself along user auth.
 
